@@ -1,6 +1,6 @@
 # mushy-lucek
 
-An oofity loofity project.
+A silly oofity loofity project hosted on Lucek's domain.
 
 ## Attributions
 
