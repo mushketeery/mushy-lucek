@@ -1,0 +1,4 @@
+:3621 {
+    root * /usr/share/caddy/src
+    file_server
+}
