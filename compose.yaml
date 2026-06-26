@@ -1,4 +1,4 @@
-name: cloudlared-lucek
+name: mushy-lucek
 
 services:
   cloudflared:
